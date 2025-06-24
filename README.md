@@ -1,4 +1,6 @@
-# Iggy C++ Client
+# The source code has been moved to [Apache Iggy](https://github.com/apache/iggy/)
+
+## Iggy C++ Client
 
 [![CI](https://github.com/iggy-rs/iggy-cpp-client/actions/workflows/ci.yml/badge.svg)](https://github.com/marketplace/actions/super-linter) [![Test Coverage](https://coveralls.io/repos/github/iggy-rs/iggy-cpp-client/badge.svg?branch=main)](https://coveralls.io/github/iggy-rs/iggy-cpp-client?branch=main)
 
